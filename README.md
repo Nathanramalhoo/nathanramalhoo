@@ -2,8 +2,7 @@ Olá 👋 me chamo Nathan
 ==========================
 
 ## Sobre mim:
-Estudante de engenharia de software
-0.5/5
+WWW.MEUSITE.COM/SOBRE
 
 ## Minhas especialidades
 
